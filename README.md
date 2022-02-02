@@ -22,4 +22,4 @@ passionate about solving problems and learning. Always open to new challenges an
 ![LutoBeibe GitHub stats](https://github-readme-stats.vercel.app/api?username=LutoBeibe&show_icons=true&theme=dark) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LutoBeibe&layout=compact&theme=dark)](https://github.com/LutoBeibe/github-readme-stats)
 </div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fby_sub_category%2F169908&psig=AOvVaw2dxBML80Lje1eqo7knqQQ9&ust=1643852699469000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDo2tjy3_UCFQAAAAAdAAAAABAf" />
+<img src="https://giffiles.alphacoders.com/531/53140.gif" />
