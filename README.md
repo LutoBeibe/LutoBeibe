@@ -18,4 +18,4 @@ passionate about solving problems and learning. Always open to new challenges an
 - 🧑🏻 17 Years
 - 🚀 Objective: Develop Full Stack
 
-<img src="https://giffiles.alphacoders.com/531/53140.gif" />
+<img src="https://pin.it/5ZzNGQJ" />
