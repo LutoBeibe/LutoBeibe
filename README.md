@@ -18,4 +18,4 @@ passionate about solving problems and learning. Always open to new challenges an
 - 🧑🏻 17 Years
 - 🚀 Objective: Develop Full Stack
 
-<img src="https://pin.it/5ZzNGQJ" />
+<img src="https://www.pngkey.com/png/full/221-2212352_niandoge-nyan-cat-png-gif.png" />
