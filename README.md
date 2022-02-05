@@ -18,4 +18,4 @@ passionate about solving problems and learning. Always open to new challenges an
 - 🧑🏻 17 Years
 - 🚀 Objective: Develop Full Stack
 
-<img src="https://c.tenor.com/kxqXc5DC8yAAAAAC/squidward-dancing.gif" />
+<img src="https://pa1.narvii.com/6403/de2d49ca4dab24fd88c6e4e40431692c7ea8ac51_hq.gif" />
