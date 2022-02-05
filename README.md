@@ -17,5 +17,6 @@ passionate about solving problems and learning. Always open to new challenges an
 - 📍 ˢᵖ  São Paulo 
 - 🧑🏻 17 Years
 - 🚀 Objective: Develop Full Stack
-
+ 
+<img src="https://urubutrix.files.wordpress.com/2013/12/tumblr_m8uwjclps41rdkjxgo1_500.gif" />
 <img src="https://pa1.narvii.com/6403/de2d49ca4dab24fd88c6e4e40431692c7ea8ac51_hq.gif" />
