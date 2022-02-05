@@ -18,7 +18,7 @@ passionate about solving problems and learning. Always open to new challenges an
 - 🧑🏻 17 Years
 - 🚀 Objective: Develop Full Stack
  
-<div  vlign="center">
+<div align="center" vlign="center">
 <img height="155rem" alt="Guilherme's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lutobeibe&show_icons=true&theme=dracula"/>
 <img height="155rem" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutobeibe&layout=compact&theme=dracula"/>
 </div>
