@@ -20,5 +20,5 @@ passionate about solving problems and learning. Always open to new challenges an
 - 🚀 Objective: Develop Full Stack
 <div vlign="center">
 <img  src="https://urubutrix.files.wordpress.com/2013/12/tumblr_m8uwjclps41rdkjxgo1_500.gif" style="width:30%" />
-<img  src="https://pa1.narvii.com/6403/de2d49ca4dab24fd88c6e4e40431692c7ea8ac51_hq.gif" style="width:50%" /></article>
+<img  src="https://pa1.narvii.com/6403/de2d49ca4dab24fd88c6e4e40431692c7ea8ac51_hq.gif" style="width:60%" /></article>
  </div>
