@@ -15,7 +15,7 @@ passionate about solving problems and learning. Always open to new challenges an
 
 ### 🌍 About me 
 - 📍 ˢᵖ  São Paulo 
-- 🧑🏻 17 Years
+- 🧑🏻 18 Years
 - 🚀 Objective: Develop Full Stack
  
 <div align="center" vlign="center">
