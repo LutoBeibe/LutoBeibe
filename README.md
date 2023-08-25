@@ -1,7 +1,7 @@
 
 ### Hey, I'm Guilherme Medeiros!  👋
 
-I'm a Front-End developer. 👨🏻‍💻 <br>
+I'm a Full-Stack developer. 👨🏻‍💻 <br>
 passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 <p>
 <a href="https://www.linkedin.com/in/guilherme-de-amorim-medeiros-2019341ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -16,7 +16,7 @@ passionate about solving problems and learning. Always open to new challenges an
 ### 🌍 About me 
 - 📍 ˢᵖ  São Paulo 
 - 🧑🏻 18 Years
-- 🚀 Objective: Develop Full Stack
+- 🚀 Objective: Pleno developer
  
 <div align="center" vlign="center">
 <img height="155rem" alt="Guilherme's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LutoBeibe&show_icons=true&theme=dracula"/>
