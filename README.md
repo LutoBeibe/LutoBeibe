@@ -4,7 +4,7 @@
 </p>
 
 <!-- Sobre mim -->
-<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Front-End+🖼;Back-End+⚙️;JavaScript-Lover+🧩;GearHead+🏎️"></a></h1>
+<h1> About me <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" height="40" src="https://readme-typing-svg.herokuapp.com?lines=Brazilian+🇧🇷+🟩;Front-End+🖼;Back-End+⚙️;JavaScript-Lover+🧩;Gearhead+🏎️"></a></h1>
 <br>
 
 
@@ -28,6 +28,7 @@
   <br>
  ✉️  You can contact me at <a href="mailto:guilhermedeamorimmedeiros@yahoo.com.br?subject=Hello Guilherme">here !!</a>
  <br>
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/c0aafa05-58f0-49ab-9a19-b1e1e4a2b4be/deploy-status)](https://app.netlify.com/sites/uploadvideosai/deploys)
 
 </p>
 </hr>
