@@ -22,13 +22,12 @@
  <br>
  🤝  I'm open to collaborating on projects that have a high impact in peoples lives
  <br>
- 🚀 Active projects 
+<!--  🚀 Active projects 
   <br>
     •  https://aisummarizegf.netlify.app
-  <br>
+  <br> -->
  ✉️  You can contact me at <a href="mailto:guilhermedeamorimmedeiros@yahoo.com.br?subject=Hello Guilherme">here !!</a>
  <br>
- [![Netlify Status](https://api.netlify.com/api/v1/badges/c0aafa05-58f0-49ab-9a19-b1e1e4a2b4be/deploy-status)](https://app.netlify.com/sites/uploadvideosai/deploys)
 
 </p>
 </hr>
