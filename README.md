@@ -39,8 +39,6 @@
   <br><br>
 <p align="center">
  <code><img title="HTML5" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"></code>
- <code><img title="CSS" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"></code>
- <code><img title="Boostrap" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"></code>
  <code><img title="Javascript" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"></code>
  <code><img title="Typescript" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"></code>
  <code><img title="React" height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"></code> 
