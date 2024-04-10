@@ -1,7 +1,7 @@
 
 # 👋 Hi there! I am Guilherme Medeiros
 
-[![Linkedin Badge](https://img.shields.io/badge/-guilhermemedeiros-484f58?style=flat-square&labelColor=279EFF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-medeirosx/)](https://www.linkedin.com/in/guilherme-medeirosx/) 
+[![Linkedin Badge](https://img.shields.io/badge/-guilherme-484f58?style=flat-square&labelColor=279EFF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-medeirosx/)](https://www.linkedin.com/in/guilherme-medeirosx/) 
 [![Instagram Badge](https://img.shields.io/badge/-@g_medeiros-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/g_medeirosx/)](https://www.instagram.com/g_medeirosx/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermedeamorimmedeiros@yahoo.com.br-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:guilhermedeamorimmedeiros@yahoo.com.br)](mailto:guilhermedeamorimmedeiros@yahoo.com.br)
 
