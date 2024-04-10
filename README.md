@@ -20,4 +20,3 @@
 &nbsp;&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="24" height="24" alt="Docker" /></a>
 &nbsp;&nbsp;<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="24" height="24" alt="Python" /></a>
 &nbsp;&nbsp;<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="24" height="24" alt="Arduino" /></a>
-&nbsp;&nbsp;<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="24" height="24" alt="Raspberry"/></a>
